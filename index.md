@@ -7,7 +7,9 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
-var new = "Hello";
+``` javascript
+var myVar = "Hello, world!";
+```
 
 
 
